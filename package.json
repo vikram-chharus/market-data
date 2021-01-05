@@ -1,0 +1,14 @@
+{
+  "name": "real-time-market-data",
+  "version": "1.0.0",
+  "description": "Fetch Real time data for stocks from angel broking smart api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@arijit",
+  "license": "ISC",
+  "dependencies": {
+    "smartapi-javascript": "^1.0.5"
+  }
+}
