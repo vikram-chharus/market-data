@@ -1,6 +1,6 @@
 # package import statement
 from smartapi.smartConnect import SmartConnect
-ff
+ffasdas
 #create object of call
 obj=SmartConnect(api_key="UCiPVJlE")
 
