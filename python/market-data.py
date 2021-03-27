@@ -1,6 +1,10 @@
 # package import statement
 from smartapi.smartConnect import SmartConnect
+<<<<<<< HEAD
 ffasdas
+=======
+ffyuyu
+>>>>>>> d711dfe665a1154a9069b5ebbf4873a0e856d508
 #create object of call
 obj=SmartConnect(api_key="UCiPVJlE")
 
